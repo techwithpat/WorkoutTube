@@ -1,2 +1,2 @@
 # WorkoutTube
-Compagnion app for tutorial about unit testing view model
+companion app for tutorial about unit testing view model
